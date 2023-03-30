@@ -1,0 +1,9 @@
+[submodule "javaproject"]
+	path = javaproject
+	url = https://github.com/KendeAndras/javaproject.git
+[submodule "laravelproject"]
+	path = laravelproject
+	url = https://github.com/maximilianbarabas/laravelproject.git
+[submodule "angularproject"]
+	path = angularproject
+	url = https://github.com/maximilianbarabas/angularproject.git
